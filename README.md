@@ -7,7 +7,7 @@ Sou um desenvolvedor Front-End, com conhecimentos básicos em backend, formado p
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincemendneck&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincemendneck&show_icons=true&theme=dark)](https://github.com/VinceMendneck?tab=repositories)
 
 ### Projetos
 
@@ -18,7 +18,7 @@ Sou um desenvolvedor Front-End, com conhecimentos básicos em backend, formado p
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincemendneck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincemendneck&layout=compact)](https://github.com/VinceMendneck?tab=repositories)
 
 ### Contatos
 

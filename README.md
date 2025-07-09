@@ -12,7 +12,7 @@ Sou um desenvolvedor Front-End, com conhecimentos básicos em backend, formado p
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vincemendneck&repo=connectsphere&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vincemendneck&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vincemendneck&repo=agenda-com-react&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vincemendneck&repo=site-sincity&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vincemendneck&repo=site_sincity&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 

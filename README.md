@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,js,ts)](https://arvore-de-links.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,js,ts)](https://vinicius-mendonca-portfolio.vercel.app/)
 
 ### Olá 👋
 
